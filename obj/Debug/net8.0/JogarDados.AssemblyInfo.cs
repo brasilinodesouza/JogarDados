@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogarDados")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4b49627e7976b49d624ce1c81d782066fceb5326")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+295d8f4988359e1ae2a7793fb4f8985ac07ab168")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogarDados")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogarDados")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
